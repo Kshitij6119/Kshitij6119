@@ -28,8 +28,7 @@
 ## 🌎 Connect with Me
 <p align="center">
   <a href="https://github.com/Kshitij-Singh"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/kshitij-singh07/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/kshitij-singh-988a69202/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
